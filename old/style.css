@@ -1,0 +1,61 @@
+/* CSS Document */
+
+body {
+	background-color:#66FF00;
+	font-family:"PortagoITC TT", "Ink Tank (BRK)", "Street - Expanded", "Signal To Noise", Arial, Helvetica;
+	font-size: 18px;
+}
+
+
+
+
+h1 {   
+        color:#8E00F9;
+}
+
+a:hover {
+	color:#FFFF00;
+	font-size: 30px;
+}
+
+table a:hover {
+	color:#FFFF00;
+}
+
+a {
+	color:#FF0000;
+	font-size: 30 px;
+	padding-right: 20px;
+	border:0;
+}
+
+a:visited {
+	color:#FF0000;
+}
+
+
+a:active{
+	color:#FFF;
+}
+
+dl dd {
+	padding-bottom: 45px;
+}
+h3 {font-family:"Comic Sans MS", "Apple Casual", sans-serif;
+}
+
+a img {
+	border:0;
+}
+
+
+
+h2 {font-family:" GoudyHandtooled BT", "Apple Casual", sans-serif;
+	color:#0091F9;
+	font-size: 60px
+}
+p {
+	color:#0000BC;
+	
+}
+
