@@ -6,14 +6,7 @@
     font-family: sub;
     src: url('a/6.ttf')
 }
-@font-face {
-    font-family: nav;
-    src: url('a/2.ttf')
-}
-@font-face {
-    font-family: text;
-    src: url('a/7.ttf')
-}
+
 
 html{
   -webkit-font-smoothing: antialiased !important;
@@ -69,7 +62,7 @@ body{
 p{
   color: rgb(229, 226, 226);
   font-size:calc(12px + 1.5vw);
-  font-family: text;
+  font-family: main;
   padding-top: 10px;
   padding-bottom: 15px;
 }
