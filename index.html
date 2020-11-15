@@ -14,7 +14,10 @@ Last Update: 11/15/2020
 
     <!-- resets background on resize, to avoid issues with processing.js -->
     <script type="text/javascript">
-      window.onresize = function(){ location.reload(); }
+      window.onresize = function(){ 
+        // location.reload() doesn't seem to be working in the newest version of Firefox (11/2020)
+        window.location.href = window.location.href;
+      }
     </script>
   </head>
   <body>
